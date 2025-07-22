@@ -7,3 +7,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbrgs42&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexbrgs42&repo=KFS)](https://github.com/alexbrgs42/KFS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexbrgs42&repo=malloc)](https://github.com/alexbrgs42/malloc)

@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning at **42 School** since 6th november of 2023
 - 📫 abourgeo@student.42.fr
 
-<!---
-alexbrgs42/alexbrgs42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbrgs42&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexbrgs42&repo=malloc)](https://github.com/anuraghazra/github-readme-stats)

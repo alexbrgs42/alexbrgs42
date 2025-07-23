@@ -67,7 +67,7 @@ I was selected via a partnership between **42** and **AWS** to do the [AWS Certi
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbrgs42&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Thanks for reading !!
+## 🎉 Thanks for reading !
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 

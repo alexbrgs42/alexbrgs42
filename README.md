@@ -1,6 +1,6 @@
 # 👋 Hello !
 
-My name's Alex and I'm a developper. I love to code tools and spending time thinking about architecture, optimization and readable and beautiful code ! Learning everyday is the most important thing for me. I’m currently learning at **42 School** since 6th november of 2023, and I'm searching for an end-of-studies internship.
+My name's Alex and I'm a developper. I love to code tools and spending time thinking about architecture, optimization and readable and beautiful code ! Learning everyday is the most important thing for me. I’m currently learning at [**42 School**](https://42.fr/en/homepage/) since 6th november of 2023, and I'm searching for an end-of-studies internship.
 
 📫 **You can reach out to me using :**
 

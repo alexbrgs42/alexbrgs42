@@ -4,7 +4,7 @@ My name's Alex and I'm a developper. I love to code tools and spending time thin
 
 📫 **You can reach out to me using :**
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](abourgeo@student.42.fr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abourgeo@student.42.fr)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alex-bourgeois-547440366/)
 [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://cv.42.fr/abourgeo)
 
@@ -17,13 +17,12 @@ AWS
 
 ## 🖥 Past work
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexbrgs42&repo=KFS&theme=highcontrast)](https://github.com/alexbrgs42/KFS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexbrgs42&repo=malloc&theme=highcontrast)](https://github.com/alexbrgs42/malloc)
 
 ## 📊 Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbrgs42&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexbrgs42&repo=KFS&theme=highcontrast)](https://github.com/alexbrgs42/KFS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexbrgs42&repo=malloc&theme=highcontrast)](https://github.com/alexbrgs42/malloc)
 
 ## Thanks for reading !!
 

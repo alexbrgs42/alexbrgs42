@@ -59,6 +59,9 @@ I was selected via a partnership between **42** and **AWS** to do the [AWS Certi
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexbrgs42&repo=KFS&theme=highcontrast)](https://github.com/alexbrgs42/KFS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexbrgs42&repo=malloc&theme=highcontrast)](https://github.com/alexbrgs42/malloc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexbrgs42&repo=42_Cub3D&theme=highcontrast)](https://github.com/alexbrgs42/42_Cub3D)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alexbrgs42&repo=42_MiniShell&theme=highcontrast)](https://github.com/alexbrgs42/42_MiniShell)
+
 
 ## 📊 Statistics
 

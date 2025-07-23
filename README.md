@@ -10,10 +10,50 @@ My name's Alex and I'm a developper. I love to code tools and spending time thin
 
 ## 👇 Current project
 
-AWS
+<img align="left" width="150" height="150" src="https://github.com/user-attachments/assets/8905b64f-841a-43de-a4b4-b870fd5d3692">
+
+I was selected via a partnership between **42** and **AWS** to do the [AWS Certified AI Practitioner](https://aws.amazon.com/certification/certified-ai-practitioner/) which includes :
+
+&nbsp; ✅ artificial intelligence (Al)\
+&nbsp; ✅ machine learning (ML)\
+&nbsp; ✅ generative Al concepts and use cases
+
+<br>
 
 ## 🧰 My toolbox
 
+🧑‍💻 Programming Language
+
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff)](#)
+[![ASM](https://img.shields.io/badge/ASM-1E90FF)](#)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+
+🖥️ Operating System
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Kernel](https://img.shields.io/badge/Kernel-8A2BE2)](#)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+
+:black_nib: Code Editor
+
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
+
+:vhs: Database
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+
+📂 More
+
+[![Git](https://img.shields.io/badge/Git-FF4500)](#)
+[![Virtualisation](https://img.shields.io/badge/Virtualisation-7DF9FF)](#)
 
 ## 🖥 Past work
 

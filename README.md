@@ -24,36 +24,25 @@ I was selected via a partnership between **42** and **AWS** to do the [AWS Certi
 
 🧑‍💻 Programming Language
 
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff)](#)
-[![ASM](https://img.shields.io/badge/ASM-1E90FF)](#)
-[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,ocaml,bash,md)](https://skillicons.dev)
+<img width="48" height="48" alt="asm" src="https://github.com/user-attachments/assets/7b372e04-8c98-4010-b390-f54f21ec4feb" />
 
 🖥️ Operating System
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Kernel](https://img.shields.io/badge/Kernel-8A2BE2)](#)
-[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu,windows)](https://skillicons.dev)
+<img width="48" height="48" alt="kernel" src="https://github.com/user-attachments/assets/3cdb605e-5390-4aa2-9d56-5bd1cf106a12" />
 
 :black_nib: Code Editor
 
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim)](https://skillicons.dev)
 
 :vhs: Database
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
 📂 More
 
-[![Git](https://img.shields.io/badge/Git-FF4500)](#)
-[![Virtualisation](https://img.shields.io/badge/Virtualisation-7DF9FF)](#)
+[![My Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)
 
 ## 🖥 Past work
 

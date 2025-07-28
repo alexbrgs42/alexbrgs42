@@ -42,7 +42,7 @@ I was selected via a partnership between **42** and **AWS** to do the [AWS Certi
 
 📂 More
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker)](git)
 
 ## 🖥 Past work
 

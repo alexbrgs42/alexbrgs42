@@ -24,25 +24,25 @@ I was selected via a partnership between **42** and **AWS** to do the [AWS Certi
 
 🧑‍💻 Programming Language
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,ocaml,bash,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,ocaml,bash,md)](#)
 <img width="48" height="48" alt="asm" src="https://github.com/user-attachments/assets/7b372e04-8c98-4010-b390-f54f21ec4feb" />
 
 🖥️ Operating System
 
-[![My Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,ubuntu,windows)](#)
 <img width="48" height="48" alt="kernel" src="https://github.com/user-attachments/assets/3cdb605e-5390-4aa2-9d56-5bd1cf106a12" />
 
 :black_nib: Code Editor
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim)](#)
 
 :vhs: Database
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](#)
 
 📂 More
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker)](git)
+[![My Skills](https://skillicons.dev/icons?i=git,docker)](#)
 
 ## 🖥 Past work
 
